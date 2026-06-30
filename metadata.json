@@ -1,0 +1,6 @@
+{
+  "name": "SBI DigiPilot",
+  "description": "A Multi-Agent AI Platform for Intelligent Digital Banking Adoption, empowering customers with autonomous onboarding, learning, safe transactions, fraud alerts, and financial wellness guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
